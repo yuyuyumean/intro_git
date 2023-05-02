@@ -5,3 +5,5 @@ Gitの練習
 今回勉強するコマンド　.git add /.git commit
 
 rm 削除
+
+git status
