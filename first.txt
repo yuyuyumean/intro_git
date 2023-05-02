@@ -7,3 +7,5 @@ Gitの練習
 rm 削除
 
 git status
+
+git diff
