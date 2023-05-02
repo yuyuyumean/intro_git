@@ -3,3 +3,5 @@ Gitの練習
 基本的なGitのワークフローを学びます
 
 今回勉強するコマンド　.git add /.git commit
+
+rm 削除
